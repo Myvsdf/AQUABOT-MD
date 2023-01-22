@@ -19,7 +19,7 @@
              },
             "ANTI_BOT": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
             "ANTI_SPAM": {
@@ -38,18 +38,18 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Arnold Dragneel" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "22899581320" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -80,7 +80,7 @@
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "CAPTION": {
@@ -90,7 +90,7 @@
       },
        "INBOX_BLOCK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲Arnold Dragneel ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -156,14 +156,21 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "FR" ,
             "required": true
-      },
+
+
+     
+             
+              
+
+     
+    
          "HEROKU": {
             "description": "",
             "value": "true" ,
             "required": true
-      },
+         
          "HEROKU_API_KEY": {
             "description": "",
             "value": "" ,
